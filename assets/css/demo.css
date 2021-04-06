@@ -12,7 +12,12 @@
         position: absolute;
     }
 }
-
+@media (min-width: 40em) {
+	.full-width {
+	  width: 100vw;
+	  transform: translateX(calc((40em - 100vw)/2));
+	}
+  }
 .icon-section {
 	margin: 0 0 3em;
 	clear: both;

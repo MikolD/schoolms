@@ -1,8 +1,8 @@
-<link rel="icon" type="image/png" href="https://webdamn.com/wp-content/themes/v2/webdamn.png">
+<link rel="icon" type="image/png" href="#">
 </head>
 <body class="">
 <div role="navigation" class="navbar navbar-default navbar-static-top">
-      <div class="container">
+      <div class="container full width">
         <div class="navbar-header">
           <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
             <span class="sr-only">Toggle navigation</span>

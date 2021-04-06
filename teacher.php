@@ -11,7 +11,7 @@ include('inc/header.php');
 <link rel="stylesheet" href="css/dataTables.bootstrap.min.css" />
 <script src="js/teacher.js"></script>
 <?php include('inc/container.php');?>
-<div class="container">	
+<div class="container full width">	
 	<?php include('side-menu.php');	?>
 	<div class="content">
 		<div class="container-fluid">

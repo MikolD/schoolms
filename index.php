@@ -11,7 +11,7 @@ include('inc/header.php');
 <title>Elementary MS</title>
 <?php include('include_files.php');?>
 <?php include('inc/container.php');?>
-<div class="container">		
+<div class="container full width">		
 	<div class="col-md-6">                    
 		<div class="panel panel-info">
 			<div class="panel-heading" style="background:#000;color:white;">
@@ -33,6 +33,11 @@ include('inc/header.php');
 					<div style="margin-top:10px" class="form-group">                               
 						<div class="col-sm-12 controls">
 						  <input type="submit" name="login" value="Login" class="btn btn-success">						  
+						</div>						
+					</div>	
+					<div style="margin-top:10px" class="form-group">                               
+						<div class="col-sm-12 controls">
+						  <input type="submit" name="SignUp" value="Signup" class="btn btn-success">						  
 						</div>						
 					</div>	
 					<div style="margin-top:10px" class="form-group">                               
